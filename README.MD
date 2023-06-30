@@ -27,3 +27,8 @@ Q learning https://www.youtube.com/watch?v=yMk_XtIEzH8&list=PLQVvvaa0QuDezJFIOU5
 Deep Learning: Which Loss and Activation Functions should I use? https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8
 
 How many hidden layers and neurons do you need in your artificial neural network? https://www.youtube.com/watch?v=bqBRET7tbiQ
+
+PyTorch https://www.youtube.com/watch?v=ORMx45xqWkA
+
+## Libraries
+pytorch https://pytorch.org/
