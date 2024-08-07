@@ -6,16 +6,6 @@
 ![example of NN](nn.png)
 ![example of NN](nn.gif)
 
-### How many hidden layers NN should have?
-
-Majority of problems can be solved with 1-2 layers
-
-
-### How many neurons layer should have?
-
-the number of hidden neurons should be between the size of input layer and the size of output layer
-
-
 ### Usefull links
 
 Types of NN https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
